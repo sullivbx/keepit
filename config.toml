@@ -30,8 +30,8 @@ disqusShortname = "yourdiscussshortname"
     weight = 1
 
   [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
+    name = "Projects"
+    url = "/projects/"
     weight = 3
 
   [[menu.main]]
